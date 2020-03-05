@@ -1,0 +1,4 @@
+#!/bin/bash
+echo $PATH
+pwd
+echo `date '+%d/%m/%Y_%H:%M:%S'`
